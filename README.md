@@ -1,3 +1,6 @@
 ### Hello there
 
-Tried to input an ascii cat here, got bored, this is my description now.
+#### Currently working on:
+- solutions for growing exotic plants at home,
+- some weird TTRPG companions
+- other random stuff
